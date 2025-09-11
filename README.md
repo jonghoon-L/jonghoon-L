@@ -22,6 +22,10 @@
 
 ### 📫 **Contact Me!**
 <div align="center">
-  <a href="mailto:ghoonghonon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://velog.io/@znhxxn/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a onclick="navigator.clipboard.writeText('ghoonghonon@gmail.com'); alert('이메일 주소가 복사되었습니다!');">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://velog.io/@znhxxn/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
+  </a>
 </div>
