@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;Backend+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=20B2AA&center=true&vCenter=true&width=450&lines=Jonghoon's+GitHub;Backend+Developer" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -20,12 +20,7 @@
 
 ---
 
-### 📫 **Contact Me!**
-<div align="center">
-  <a onclick="navigator.clipboard.writeText('ghoonghonon@gmail.com'); alert('이메일 주소가 복사되었습니다!');">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://velog.io/@znhxxn/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
-  </a>
-</div>
+### 📫 Contact Me!
+
+- **Email**: ghoonghoon@gmail.com
+- **Velog**: [https://velog.io/@znhxxn/posts](https://velog.io/@znhxxn/posts)
