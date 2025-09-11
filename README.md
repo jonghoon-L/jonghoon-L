@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;Backend+Developer" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**jonghoon-L/jonghoon-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghoon-L&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  &nbsp;&nbsp;&nbsp;
+  [![trophy](https://github-profile-trophy.vercel.app/?username=jonghoon-L&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+---
+
+### 📫 **Contact Me!**
+<div align="center">
+  <a href="mailto:ghoonghonon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://velog.io/@znhxxn/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+</div>
