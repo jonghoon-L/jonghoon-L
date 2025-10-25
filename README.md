@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghoon-L&theme=tokyonight&hide=html,css" alt="Top Languages Stats"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=jonghoon-L&show_icons=true&theme=bear&hide=stars&custom_title=%EC%9D%B4%EC%A2%85%ED%9B%88%EC%9D%98%20GitHub%20Stats&hide_rank=true" alt="이종훈의 GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonghoon-L&show_icons=true&theme=bear&hide=stars&custom_title=%EC%9D%B4%EC%A2%85%ED%9B%88%EC%9D%98%20GitHub%20Stats" alt="이종훈의 GitHub Stats"/>
 </div>
 
 <br/>
