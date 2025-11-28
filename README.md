@@ -22,17 +22,17 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
 </div>
 
-<br/>
+<br>
 
-<div align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghoon-L&theme=tokyonight&hide=html,css" alt="Top Languages Stats"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer" width="100%" />
+  <br>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonghoon-L&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=jonghoon-L&show_icons=true&theme=bear&hide=stars&custom_title=%EC%9D%B4%EC%A2%85%ED%9B%88%EC%9D%98%20GitHub%20Stats" alt="이종훈의 GitHub Stats"/>
 </div>
 
-<br/>
+<br>
 
 ---
 
