@@ -25,10 +25,8 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer" width="100%" />
-  <br>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonghoon-L&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonghoon-L&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
   </a>
 </div>
 
